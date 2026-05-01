@@ -27,6 +27,7 @@ The system extracts the domain and queries its registration history. In phishing
 3. The Brain (Llava VLM)
 
 The "Thinking" layer. Using a Vision-Language Model (VLM), the system performs OCR and logo detection. It doesn't just see pixels; it understands context, allowing it to realize that a site looking like a login page hosted on an unrelated domain is a high-risk threat.
+
 💻 Technical Stack
 
     Language: Python 3.10+
@@ -38,6 +39,7 @@ The "Thinking" layer. Using a Vision-Language Model (VLM), the system performs O
     OS/Environment: Kali Linux / Virtual Environment (venv)
 
     Data Sources: python-whois (OSINT)
+
 
 🔧 Installation & Usage
 Bash
