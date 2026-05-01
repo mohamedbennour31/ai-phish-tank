@@ -1,6 +1,7 @@
 🛡️ AI Phish-Tank
 
 A Multi-Modal Security Pipeline for Automated Phishing Detection
+
 📖 Description
 
 AI Phish-Tank is an automated security orchestrator that bridges the gap between traditional OSINT and modern Computer Vision. Unlike standard scanners that rely on static blacklists, AI Phish-Tank "analyzes" a website through the eyes of a SOC analyst. By correlating visual brand identity with technical metadata, it identifies sophisticated impersonation attacks in real-time.
