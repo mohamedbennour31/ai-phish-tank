@@ -1,4 +1,4 @@
-🛡️ AI Phish-Tank
+<img width="767" height="442" alt="{84A7CA69-C645-43C5-B09D-FA4374879F2E}" src="https://github.com/user-attachments/assets/5e8b6038-f13b-4846-adb2-e2bf02a7dbe9" />🛡️ AI Phish-Tank
 
 A Multi-Modal Security Pipeline for Automated Phishing Detection
 
@@ -52,3 +52,8 @@ pip install -r requirements.txt
 
 # Run a security audit
 python3 phish_shield.py
+
+Execution example:
+<img width="767" height="442" alt="{84A7CA69-C645-43C5-B09D-FA4374879F2E}" src="https://github.com/user-attachments/assets/521153b7-8440-4410-84be-59cebe57d871" />
+
+
