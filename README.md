@@ -1,5 +1,3 @@
-<img width="767" height="442" alt="{84A7CA69-C645-43C5-B09D-FA4374879F2E}" src="https://github.com/user-attachments/assets/5e8b6038-f13b-4846-adb2-e2bf02a7dbe9" />🛡️ AI Phish-Tank
-
 A Multi-Modal Security Pipeline for Automated Phishing Detection
 
 📖 Description
@@ -55,5 +53,5 @@ python3 phish_shield.py
 
 Execution example:
 <img width="767" height="442" alt="{84A7CA69-C645-43C5-B09D-FA4374879F2E}" src="https://github.com/user-attachments/assets/521153b7-8440-4410-84be-59cebe57d871" />
-
+<img width="786" height="344" alt="{519063B6-DED7-413B-87BD-972BC074270E}" src="https://github.com/user-attachments/assets/0931e23b-cc7f-4848-9d5e-785c11eb10eb" />
 
