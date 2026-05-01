@@ -1,10 +1,10 @@
 🛡️ AI Phish-Tank
 
 A Multi-Modal Security Pipeline for Automated Phishing Detection
-**Description
+📖 Description
 
 AI Phish-Tank is an automated security orchestrator that bridges the gap between traditional OSINT and modern Computer Vision. Unlike standard scanners that rely on static blacklists, AI Phish-Tank "analyzes" a website through the eyes of a SOC analyst. By correlating visual brand identity with technical metadata, it identifies sophisticated impersonation attacks in real-time.
-**Key Features
+🚀 Key Features
 
     📸 Automated Evidence Collection: Orchestrates Playwright to navigate dynamic, JavaScript-heavy sites and capture high-fidelity forensic screenshots.
 
@@ -14,7 +14,7 @@ AI Phish-Tank is an automated security orchestrator that bridges the gap between
 
     ⚖️ Contextual Mismatch Detection: Cross-references visual cues (e.g., a "Reddit" logo) against the actual root domain to detect visual-technical inconsistencies.
 
-**Technical Pipeline
+🛠️ Technical Pipeline
 
 The system operates as a modular, three-stage pipeline designed for privacy and speed by running entirely on local hardware.
 1. The Sensor (Playwright)
@@ -26,7 +26,7 @@ The system extracts the domain and queries its registration history. In phishing
 3. The Brain (Llava VLM)
 
 The "Thinking" layer. Using a Vision-Language Model (VLM), the system performs OCR and logo detection. It doesn't just see pixels; it understands context, allowing it to realize that a site looking like a login page hosted on an unrelated domain is a high-risk threat.
-Technical Stack
+💻 Technical Stack
 
     Language: Python 3.10+
 
@@ -38,7 +38,7 @@ Technical Stack
 
     Data Sources: python-whois (OSINT)
 
-** Installation & Usage
+🔧 Installation & Usage
 Bash
 
 # Clone the repo
