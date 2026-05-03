@@ -1,4 +1,4 @@
-A Multi-Modal Security Pipeline for Automated Phishing Detection
+<img width="610" height="330" alt="{66C2717A-0D0A-4954-86E8-7F0C856B42BF}" src="https://github.com/user-attachments/assets/374f0b35-ce3b-4d3f-9a9a-a13527922436" />A Multi-Modal Security Pipeline for Automated Phishing Detection
 
 📖 Description
 
@@ -51,9 +51,11 @@ pip install -r requirements.txt
 # Run a security audit
 python3 phish_shield.py
 
-🎮Execution example:
+🎮Execution example: github.com
 
 
-<img width="767" height="442" alt="{84A7CA69-C645-43C5-B09D-FA4374879F2E}" src="https://github.com/user-attachments/assets/521153b7-8440-4410-84be-59cebe57d871" />
-<img width="786" height="344" alt="{519063B6-DED7-413B-87BD-972BC074270E}" src="https://github.com/user-attachments/assets/0931e23b-cc7f-4848-9d5e-785c11eb10eb" />
+<img width="656" height="338" alt="{255584D4-AC1D-4A10-82EE-30637E366DB1}" src="https://github.com/user-attachments/assets/1f3f7996-e7d8-4e0a-b838-27a2ab968d01" />
+<img width="641" height="350" alt="{B8D8E1D4-5329-4974-8479-CAC141320DB0}" src="https://github.com/user-attachments/assets/eb7c6d49-024f-4719-ac26-ed3279ced543" />
+
+
 
