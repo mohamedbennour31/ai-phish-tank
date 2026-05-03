@@ -1,4 +1,4 @@
-<img width="610" height="330" alt="{66C2717A-0D0A-4954-86E8-7F0C856B42BF}" src="https://github.com/user-attachments/assets/374f0b35-ce3b-4d3f-9a9a-a13527922436" />A Multi-Modal Security Pipeline for Automated Phishing Detection
+A Multi-Modal Security Pipeline for Automated Phishing Detection
 
 📖 Description
 
